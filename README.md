@@ -6,3 +6,5 @@ Edit from GitHub.
 Edit locally, and push.
 
 This is just a minor change in another branch.
+
+second change in branch.
