@@ -7,8 +7,7 @@ Edit locally, and push.
 
 This is just a minor change in another branch.
 
-
-second change in branch.
+second change in branch. Automated!
 
 another change
 
